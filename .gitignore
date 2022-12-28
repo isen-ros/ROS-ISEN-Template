@@ -1,3 +1,6 @@
 sagan
 sagan/**
 sagan.sh
+.DS_Store
+.DS_Store/*
+**/.DS_Store
