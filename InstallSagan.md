@@ -32,3 +32,6 @@ En plus pour ouvrir sagan vous allez execute **depuis cet dossier**
 
 On remarque l'importance de le faire depuis cet dossier. Sinon l'utile ne va pas marcher correctement. 
 
+
+## Installation windows 
+Chez windows on peut installer Sagan aussi, mais il faut le faire depuis un environement [Cygwin](https://www.cygwin.com/).
